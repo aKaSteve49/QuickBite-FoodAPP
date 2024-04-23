@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickBiteServer</string>
+    <string name="slogan">Satisfy your cravings with JUST EAT: Delicious food, delivered with a smile!</string>
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>
+    <string name="title_activity_tracking_order">TrackingOrder</string>
+    <string name="mapapikey">AIzaSyBFS6LbolND36apQxKTEi-mHAKIDPU1PzU</string>
+</resources>
